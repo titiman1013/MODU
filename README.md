@@ -199,9 +199,6 @@ Frontend : 🦁 **Roh Hyunsuk**
 
 ![Award](./README.assets/MODU.jpg)
 
-- SSAFY  Best Member 선정 & 50000 마일리지 수여
-
-  ![bestmember](./README.assets/bestmember.png)
 
 
 
